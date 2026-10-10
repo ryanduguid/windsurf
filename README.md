@@ -1,6 +1,8 @@
 # OpenAccountants for Windsurf
 
-Use [OpenAccountants](https://www.openaccountants.com) — 800+ accountant-verified tax skills across 190+ jurisdictions — inside Windsurf via the Cascade panel's MCP support.
+Use [OpenAccountants](https://www.openaccountants.com) tax Guides inside Windsurf via the Cascade panel's MCP support.
+
+Guides include accountant-reviewed versions and source-cited drafts. Check the [current catalogue](https://www.openaccountants.com/skills) and [review method](https://www.openaccountants.com/review-method) for each Guide's review status, reviewer, version and review date. Authorship or a jurisdiction lead's name does not establish professional review of every Guide version.
 
 ## Install (manual, ~30 seconds)
 
@@ -54,12 +56,12 @@ These skills produce **working papers, not filed returns**. Every output preserv
 ## Links
 
 - Website: [openaccountants.com](https://www.openaccountants.com)
-- Skills source: [github.com/openaccountants/openaccountants](https://github.com/openaccountants/openaccountants) (AGPL-3.0)
+- Skills source: [github.com/openaccountants/openaccountants](https://github.com/openaccountants/openaccountants); [content terms](https://github.com/openaccountants/openaccountants/blob/main/LICENSING.md)
 - MCP server: `https://www.openaccountants.com/api/mcp`
 - Universal server-card: `https://www.openaccountants.com/.well-known/mcp/server-card.json`
 - Verified accountant network: [openaccountants.com/network](https://www.openaccountants.com/network)
 - Book a verified accountant: [calendly.com/openaccountants-info/30min](https://calendly.com/openaccountants-info/30min)
 
-## License
+## Licence
 
-MIT (this docs repo). Underlying skill content remains AGPL-3.0 with attribution per [LICENSE-ADDITIONAL.md in the skills repo](https://github.com/openaccountants/openaccountants/blob/main/LICENSE-ADDITIONAL.md).
+MIT for this repository. Guide content has separate terms from this wrapper. The source repository's [licensing document](https://github.com/openaccountants/openaccountants/blob/main/LICENSING.md) describes the source-available OA Guide License, commercial options, third-party copyleft exceptions and prior AGPL releases. Check the terms for the Guide version you use.
